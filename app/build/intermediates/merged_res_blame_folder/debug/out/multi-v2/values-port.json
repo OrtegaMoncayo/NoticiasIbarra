@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.tesistitulacion.noticiaslocales.app-mergeDebugResources-55:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\8.13\\transforms\\ceae5c62925394b6797416cfadb55060\\transformed\\appcompat-1.6.1\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
